@@ -1,0 +1,2 @@
+Algorith question and answers : https://inspirit.net.in/books/placements/Cracking the Coding Interview.pdf
+Java 8 New Features : http://www.r-5.org/files/books/computers/languages/java/fp/Richard_Warburton-Java_8_Lambdas-EN.pdf
