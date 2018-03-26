@@ -1,4 +1,4 @@
-package chapter1;
+package HowToCrackCodingInterview.chapter1ArrayAndString;
 
 public class ReplaceBlankSpaces {
 

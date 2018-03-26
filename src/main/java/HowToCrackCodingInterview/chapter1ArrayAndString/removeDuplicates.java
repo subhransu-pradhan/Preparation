@@ -1,6 +1,4 @@
-package chapter1;
-
-import java.util.stream.Stream;
+package HowToCrackCodingInterview.chapter1ArrayAndString;
 
 /*
     Design an algorithm and write code to remove the duplicate characters in a string

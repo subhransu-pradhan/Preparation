@@ -1,4 +1,4 @@
-package chapter1;
+package HowToCrackCodingInterview.chapter1ArrayAndString;
 //Write a method to decide if two strings are anagrams or not.
 
 public class AnagramsTest {

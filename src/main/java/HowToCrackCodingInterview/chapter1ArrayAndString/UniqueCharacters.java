@@ -1,6 +1,4 @@
-package chapter1;//Implement an algorithm to determine if a string has all unique characters(not case sensitive). What if you can not use additional data structures?
-
-import java.util.stream.Stream;
+package HowToCrackCodingInterview.chapter1ArrayAndString;//Implement an algorithm to determine if a string has all unique characters(not case sensitive). What if you can not use additional data structures?
 
 public class UniqueCharacters {
 
