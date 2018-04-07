@@ -4,7 +4,7 @@ import HowToCrackCodingInterview.chapter4TreeAndGraph.util.Graph;
 import HowToCrackCodingInterview.chapter4TreeAndGraph.util.Node;
 import HowToCrackCodingInterview.chapter4TreeAndGraph.util.Path;
 
-public class TreeTraversal {
+public class GraphTraversal {
 
     public String returnBFSPath(Graph graph){
         int noOfVertex = graph.getNoOfVertex();
@@ -60,7 +60,7 @@ public class TreeTraversal {
 
     public static void main(String args[]){
         Graph graph = Graph.getGraph();
-        System.out.println(new TreeTraversal().returnDFSPath(graph));
-        System.out.println(new TreeTraversal().returnBFSPath(graph));
+        System.out.println(new GraphTraversal().returnDFSPath(graph));
+        System.out.println(new GraphTraversal().returnBFSPath(graph));
     }
 }
