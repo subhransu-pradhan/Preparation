@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aba48491-5607-4283-9d3d-8f10c22f98e9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/JAVA Developer Subhransu.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/constructorCallingInInheritance/A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/constructorCallingInInheritance/B.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/constructorCallingInInheritance/C.java" />
+    <list default="true" id="aba48491-5607-4283-9d3d-8f10c22f98e9" name="Default" comment="How ToCrack Coding Interview Solutions.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/JAVA Developer Subhransu.pdf" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -567,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525193246670</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="How ToCrack Coding Interview Solutions.">
+      <created>1525949985506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525949985506</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
