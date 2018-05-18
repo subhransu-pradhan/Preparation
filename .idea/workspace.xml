@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba48491-5607-4283-9d3d-8f10c22f98e9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Naukri/Subhransu Pradhan Resume.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Naukri/Subhransu Pradhan Resume.pdf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Subhransu CL.docx" afterPath="$PROJECT_DIR$/Subhransu CL.docx" />
+      <change beforePath="$PROJECT_DIR$/JAVA Developer Subhransu .docx" afterPath="$PROJECT_DIR$/JAVA Developer Subhransu.docx" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,7 +32,7 @@
       <file leaf-file-name="ParenthesisAnalysis.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter7Recursion/ParenthesisAnalysis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="0">
               <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -72,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpaceBetweenString.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SpaceBetweenString.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString/SpaceBetweenString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -82,21 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Books for references.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Books for references.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Preparation.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Preparation.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Preparation.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -254,7 +246,7 @@
             <path>
               <item name="Preparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Preparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Naukri" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Preparation" type="b2602c69:ProjectViewProjectNode" />
@@ -327,15 +319,16 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/supradha/Desktop/HereProject/gitHub/Preparation/src/main/java/HowToCrackCodingInterview/chapter4TreeAndGraph/GraphTraversal.java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="HowToCrackCodingInterview.chapter4TreeAndGraph" />
       <recent name="HowToCrackCodingInterview.chapter3StackAndQueue" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Naukri" />
+      <recent name="$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -635,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526643527935</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Resume and cover letter Interview Solutions.">
+      <created>1526643591401</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1526643591401</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -706,12 +706,6 @@
           <line>6</line>
           <properties />
           <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString/SpaceBetweenString.java</url>
-          <line>5</line>
-          <properties />
-          <option name="timeStamp" value="141" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="142" />
@@ -1008,7 +1002,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter7Recursion/ParenthesisAnalysis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="0">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1048,14 +1042,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter5BitManipulation/RightMostBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -1064,10 +1050,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString/SpaceBetweenString.java">
+    <entry file="file://$PROJECT_DIR$/Preparation.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -1080,10 +1074,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Preparation.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString/SpaceBetweenString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
