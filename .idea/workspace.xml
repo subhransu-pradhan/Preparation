@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba48491-5607-4283-9d3d-8f10c22f98e9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString/SpaceBetweenString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter5BitManipulation/RightMostBit.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/JAVA Developer Subhransu .docx" afterPath="$PROJECT_DIR$/JAVA Developer Subhransu .docx" />
-      <change beforePath="$PROJECT_DIR$/JAVA Developer Subhransu.pdf" afterPath="$PROJECT_DIR$/JAVA Developer Subhransu.pdf" />
+      <change beforePath="$PROJECT_DIR$/Subhransu CL.docx" afterPath="$PROJECT_DIR$/Subhransu CL.docx" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -85,8 +82,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Books for references.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Books for references.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Books for references.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Preparation.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Preparation.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -621,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526376652899</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Resume and cover letter Interview Solutions.">
+      <created>1526643527935</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526643527935</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -724,13 +738,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString/ReplicateZeroInNXM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HowToCrackCodingInterview/chapter1ArrayAndString/ReverseCStyleString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1066,6 +1073,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Books for references.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Preparation.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
